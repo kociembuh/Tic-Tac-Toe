@@ -1,0 +1,3 @@
+My attempt at programming tic tac toe. The main_v2 file is my honest-to-goodness best attempt without outside help or generative AI, and main_v3 is the final result after significant help from ChatGPT. 
+The how_many_X file is a short script I wrote simply to identify the indexed positions at which an "X" should appear in a string that was supposed to represent the entire board in main_v2, but was ultimately useeless as v3 incorporated a non-hard coded board updating system.
+I will say that I'm proud of how far I was able to get without outside help, even if it was horribly inefficient and incomplete. I certainly learned a lot of good practices in C++ and the use of functions, along with more technical things like syntax. Enjoy
